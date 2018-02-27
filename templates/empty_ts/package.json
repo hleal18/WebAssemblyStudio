@@ -1,0 +1,12 @@
+{
+  "name": "@wasm/empty_ts",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "gulp"
+  },
+  "devDependencies": {
+    "assemblyscript": "AssemblyScript/assemblyscript",
+    "gulp": "^3.9.1"
+  }
+}
